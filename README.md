@@ -31,3 +31,6 @@ Visualizations Used :
 
 - Matrix Card – All KPIs by Outlet Type
 → Gives a full performance breakdown
+
+<img width="1291" height="732" alt="image" src="https://github.com/user-attachments/assets/668fb15a-5841-434d-b644-72f1c534afad" />
+
