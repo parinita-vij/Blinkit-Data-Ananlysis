@@ -12,25 +12,27 @@ Key Performance Indicators (KPIs) :
 
 Visualizations Used :
 - Donut Chart – Total Sales by Fat Content
-→ Helps understand how fat content impacts sales
+→ Helps understand how fat content impacts sales.
 
 - Bar Chart – Total Sales by Item Type
-→ Shows which item categories perform best
+→ Shows which item categories perform best.
 
 - Stacked Column Chart – Fat Content by Outlet
-→ Compares sales across outlets with fat segmentation
+→ Compares sales across outlets with fat segmentation.
 
 - Line Chart – Sales by Outlet Establishment
-→ Tracks how outlet age/type affects sales
+→ Tracks how outlet age/type affects sales.
 
 - Pie/Donut Chart – Sales by Outlet Size
-→ Shows relationship between outlet size and revenue
+→ Shows relationship between outlet size and revenue.
 
 - Funnel Map – Sales by Location
-→ Visualizes geographic sales distribution
+→ Visualizes geographic sales distribution.
 
 - Matrix Card – All KPIs by Outlet Type
-→ Gives a full performance breakdown
+→ Gives a full performance breakdown.
+
+**FINAL OUTPUT**
 
 <img width="1291" height="732" alt="image" src="https://github.com/user-attachments/assets/668fb15a-5841-434d-b644-72f1c534afad" />
 
